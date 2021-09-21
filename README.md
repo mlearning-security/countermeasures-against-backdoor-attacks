@@ -1,4 +1,4 @@
-This is a Python implementaion for Jupyter/Colab Notebooks of "Countermeasures against Backdoor Attackstowards Malware Detectors".
+This is a Python implementaion for Jupyter/Colab Notebooks of "Countermeasures against Backdoor Attacks　towards Malware Detectors".
 
 The datasets used in our validation (EMBER) are not included in the repository.
 
